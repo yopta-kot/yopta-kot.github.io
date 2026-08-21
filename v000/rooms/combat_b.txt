@@ -1,0 +1,12 @@
+@kind room
+@geometry cover
+@size small
+@activeConnectors 2,3
+@stages 1,2
+
+###^####
+<......>
+#......#
+#......#
+#.....M#
+###v####

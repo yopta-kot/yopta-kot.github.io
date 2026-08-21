@@ -1,0 +1,12 @@
+@kind room
+@geometry deadEnd
+@size small
+@activeConnectors 2
+@stages *
+
+#######
+<.....>
+#.....#
+#..I..#
+#.....#
+#######
