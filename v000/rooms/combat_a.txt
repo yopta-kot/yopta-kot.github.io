@@ -2,7 +2,7 @@
 @geometry open
 @size small
 @activeConnectors 2,3
-@stages 1,2
+@stages *
 
 ###^###
 <.....>
