@@ -1,0 +1,16 @@
+@kind junction
+@role structural
+@geometry tCross
+@size medium
+@activeConnectors 3
+@stages *
+
+#######^^^##
+#..........#
+#..........#
+#..........#
+#..........#
+#..........>
+#..........>
+#..........>
+#######vvv##

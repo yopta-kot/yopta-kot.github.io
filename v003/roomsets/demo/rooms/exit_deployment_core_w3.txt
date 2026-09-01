@@ -1,0 +1,17 @@
+@kind exit
+@role exit
+@geometry deploymentCore
+@size medium
+@activeConnectors 1
+@stages 5
+
+###########
+#.........#
+<......X..#
+<.........#
+<.........#
+#.........#
+#.........#
+#.........#
+#.........#
+###########

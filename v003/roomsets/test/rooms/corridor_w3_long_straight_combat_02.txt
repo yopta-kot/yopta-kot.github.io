@@ -1,0 +1,15 @@
+@kind corridor
+@role combat
+@geometry straight
+@size medium
+@activeConnectors 2
+@stages *
+@corridorLength long
+
+#############
+<....M......>
+<...........>
+<...........>
+#...........#
+#...........#
+#############
