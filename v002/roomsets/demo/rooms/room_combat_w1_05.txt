@@ -3,11 +3,11 @@
 @geometry cover
 @size medium
 @activeConnectors 1,2
-@stages 1
+@stages *
 
 #############
 <.........M.>
 #...........#
-#.....G.....#
+#...........#
 #...........#
 #############
