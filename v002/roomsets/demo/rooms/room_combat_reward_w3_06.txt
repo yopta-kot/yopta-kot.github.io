@@ -3,13 +3,13 @@
 @geometry split
 @size medium
 @activeConnectors 1,2
-@stages *
+@stages 1
 
 #########
 <.......>
 <.M.....>
 <.......>
-#.......#
+#...G...#
 #.......#
 #......I#
 #.......#
