@@ -1,0 +1,14 @@
+@kind room
+@role combat
+@geometry open
+@size small
+@activeConnectors 1,2
+@stages 2
+
+###^^##
+#.....#
+<...R.>
+<.M...>
+#.....#
+#.....#
+###vv##

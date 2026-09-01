@@ -1,0 +1,14 @@
+@kind room
+@role reward
+@geometry deadEnd
+@size small
+@activeConnectors 1
+@stages *
+
+####^##
+#.....#
+#.##..#
+<.##..>
+#.I...#
+#.....#
+####v##

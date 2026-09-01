@@ -1,0 +1,16 @@
+@kind junction
+@role structural
+@geometry cross
+@size small
+@activeConnectors 4
+@stages *
+
+__#^^^#__
+__#...#__
+###...###
+<.......>
+<.......>
+<.......>
+###...###
+__#...#__
+__#vvv#__

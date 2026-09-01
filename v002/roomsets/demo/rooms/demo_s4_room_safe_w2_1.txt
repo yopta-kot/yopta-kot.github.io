@@ -1,0 +1,14 @@
+@kind room
+@role safe
+@geometry narrow
+@size medium
+@activeConnectors 1,2
+@stages 4
+
+###^^######
+#.........#
+#.##......#
+<.##......>
+<.........>
+#.........#
+###vv######

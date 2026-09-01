@@ -1,0 +1,16 @@
+@kind exit
+@role safe
+@geometry open
+@size small
+@activeConnectors 1
+@stages *
+
+##^^^##
+#.....#
+<.....>
+<.....>
+<..X..>
+#.....#
+#.....#
+#.....#
+##vvv##

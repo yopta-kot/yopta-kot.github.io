@@ -1,0 +1,17 @@
+@kind start
+@role safe
+@geometry open
+@size medium
+@activeConnectors 1
+@stages 2
+
+###^^######
+#.........#
+#.##......#
+#.##......#
+#.........#
+<....P....>
+<.........>
+#.........#
+#.........#
+###vv######

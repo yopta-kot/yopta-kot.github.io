@@ -1,0 +1,14 @@
+@kind room
+@role safe
+@geometry cover
+@size small
+@activeConnectors 1,2
+@stages 1
+
+##^#####
+#......#
+#.##...#
+#.##...#
+<......>
+#......#
+##v#####
