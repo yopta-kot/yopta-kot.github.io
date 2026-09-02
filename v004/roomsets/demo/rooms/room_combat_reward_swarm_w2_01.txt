@@ -1,0 +1,16 @@
+@kind room
+@role combat_reward
+@geometry cover
+@size medium
+@activeConnectors 1
+@stages 3,4
+@encounterGroup bug_swarm_5
+
+###########
+#.M.....M.#
+#.........#
+<...##....#
+<M..##..I.#
+#.........#
+#.M.....M.#
+###########
