@@ -1,0 +1,14 @@
+@kind corridor
+@role structural
+@geometry corner
+@size medium
+@activeConnectors 2
+@stages 4,5
+@corridorLength long
+
+#############
+<...........#
+<...........#
+#...........#
+#...........#
+#########vv##

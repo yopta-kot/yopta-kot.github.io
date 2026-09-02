@@ -1,0 +1,18 @@
+@kind corridor
+@role structural
+@geometry straight
+@size medium
+@activeConnectors 2
+@stages *
+@corridorLength medium
+
+##########
+#........#
+#........#
+<........>
+<........>
+<........>
+#........#
+#........#
+#........#
+##########

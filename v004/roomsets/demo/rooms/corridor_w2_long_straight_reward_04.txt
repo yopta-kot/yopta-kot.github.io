@@ -1,0 +1,15 @@
+@kind corridor
+@role reward
+@geometry straight
+@size medium
+@activeConnectors 2
+@stages 2,3,4,5
+@corridorLength long
+
+############
+#..I.......#
+<..........>
+<..........>
+#..........#
+#..........#
+############

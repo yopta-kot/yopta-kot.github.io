@@ -1,0 +1,15 @@
+@kind room
+@role combat_reward
+@geometry split
+@size medium
+@activeConnectors 1,2
+@stages *
+
+###########
+#.........#
+<....R....>
+<.........>
+<......I..>
+#.........#
+#.........#
+###########
