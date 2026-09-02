@@ -4,10 +4,11 @@
 @size medium
 @activeConnectors 1,2
 @stages *
+@encounterGroup dense_medium_room
 
 ###########
 #.....M...#
-#.........#
+#......G..#
 <.........>
 <..R......>
 <.........>
